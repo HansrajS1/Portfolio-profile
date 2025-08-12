@@ -60,7 +60,6 @@ Check out my collection of certification courses here:
 ##  Contact
 
 - **Email**: hansrajvvs@gmail.com  
-- **Resume**: [Link to Your Resume] *(Optionally embed or link your resume here.)*
 
 ---
 
@@ -77,3 +76,4 @@ Check out my collection of certification courses here:
 
 Let me know if you'd like help with formatting, additional sections, or customizing the tone!
 ::contentReference[oaicite:0]{index=0}
+
