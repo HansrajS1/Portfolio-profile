@@ -29,7 +29,7 @@ const projects = [
       "Predicts the 10-year risk of coronary heart disease (CHD) using machine learning to assist healthcare professionals in early risk assessment.",
     imageUrl: project3,
     liveUrl:
-      "https://github.com/HansrajS1/Cardiovascular-Risk-Prediction-in-ml/blob/main/ML%20PROJECT.ipynb",
+      "https://cardiovascular-risk-prediction.hansrajvvs.me/",
     codeUrl:
       "https://github.com/HansrajS1/Cardiovascular-Risk-Prediction-in-ml",
   },
