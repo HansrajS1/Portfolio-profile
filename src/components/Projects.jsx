@@ -3,6 +3,9 @@ import { motion } from "framer-motion";
 import project1 from "../assets/images/AU Exam App.png";
 import project2 from "../assets/images/pro1.png";
 import project3 from "../assets/images/pro2.png";
+import project4 from "../assets/images/pro4.png";
+import project5 from "../assets/images/pro5.png";
+import project6 from "../assets/images/pro6.png";
 
 import projectsBgImage from "../assets/images/background1.jpg";
 
@@ -33,6 +36,36 @@ const projects = [
     codeUrl:
       "https://github.com/HansrajS1/Cardiovascular-Risk-Prediction-in-ml",
   },
+  {
+    title: "AI Booking Assistant",
+    description:
+      "AI-powered conversational booking system that handles Hotels, Doctor appointments, Restaurant tables, Spa, Salon, Events & Classes through natural language chat.",
+    imageUrl: project4,
+    liveUrl:
+      "https://ai-booking-assistant.streamlit.app/",
+    codeUrl:
+      "https://github.com/HansrajS1/AI-Booking-Assistant",
+  },
+  {
+    title: "ContextAI AI Assistant",
+    description:
+      "ContextAI is a production-ready, ChatGPT-style conversational AI application built using Streamlit.It combines Retrieval-Augmented Generation (RAG), live web search fallback, and configurable response modes to deliver accurate, contextual, and reliable answers.",
+    imageUrl: project5,
+    liveUrl:
+      "https://contextai-ai-chatbot.streamlit.app/",
+    codeUrl:
+      "https://github.com/HansrajS1/ContextAI-AI-Chatbot",
+  },
+  {
+    title: "Spring Boot API for Product Management",
+    description:
+      "A Spring Boot REST API project with CRUD operations with Pagination + Filters, layered architecture (Controller-Service-Repository), and integrated with JPA for database management.",
+    imageUrl: project6,
+    liveUrl:
+      "https://github.com/HansrajS1/Spring-Boot-API",
+    codeUrl:
+      "https://github.com/HansrajS1/Spring-Boot-API",
+  }
 ];
 
 const ProjectCard = ({ title, description, imageUrl, liveUrl, codeUrl }) => (
