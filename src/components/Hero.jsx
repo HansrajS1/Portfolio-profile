@@ -8,7 +8,7 @@ const Hero = () => {
   return (
     <section
       id="home"
-      className="flex flex-col justify-center bg-cover bg-center bg-fixed pt-40 pb-20"
+      className="flex flex-col justify-center bg-cover bg-fixed h-[100vh] pt-40 pb-20"
       style={{ backgroundImage: `url(${backgroundImage})` }}
     >
       <div className="container mx-auto px-4 flex flex-col md:flex-row items-center justify-around text-white">

@@ -6,6 +6,7 @@ import project3 from "../assets/images/pro2.png";
 import project4 from "../assets/images/pro4.png";
 import project5 from "../assets/images/pro5.png";
 import project6 from "../assets/images/pro6.png";
+import face from "../assets/images/face.png"
 
 import projectsBgImage from "../assets/images/background1.jpg";
 
@@ -19,12 +20,12 @@ const projects = [
     codeUrl: "https://github.com/HansrajS1/Au-Exam-App",
   },
   {
-    title: "Restaurant Name & Menu Generator",
+    title: "Face Mask Detection Using CNN and Real-Time Camera Input",
     description:
-      "A Streamlit web app that uses LangChain and Azure OpenAI to generate a creative restaurant name and menu based on a selected cuisine.",
-    imageUrl: project2,
-    liveUrl: "https://restaurant-name-generator-hansraj.streamlit.app/",
-    codeUrl: "https://restaurant-name-generator-hansraj.streamlit.app/",
+      "This project focuses on developing an intelligent system that automatically detects whether a person is wearing a face mask or not using Convolutional Neural Networks (CNNs) and real-time video input. The system leverages deep learning techniques in computer vision to ensure public safety, especially in environments where mask compliance is essential.",
+    imageUrl: face,
+    liveUrl: "https://face-mask.hansrajvvs.me/",
+    codeUrl: "https://github.com/HansrajS1/Face-Mask-Detection",
   },
   {
     title: "Cardiovascular Risk Prediction",

@@ -30,11 +30,11 @@ const About = () => {
           transition={{ duration: 0.7, delay: 0.2 }}
         >
           <h2 className="text-4xl font-bold mb-4">About <span className="text-cyan-400">Me</span></h2>
-          <p className="text-lg text-gray-300 leading-relaxed">
+          <p className="text-lg text-gray-300 leading-relaxed text-justify">
             I'm a passionate B.Tech student at Alliance University, majoring in Computer Science with a specialization in AI & ML, set to graduate in 2026. I thrive on using technology to solve real-world problems and have hands-on experience with C, C++, Python, and Java.
           </p>
           <br/>
-          <p className="text-lg text-gray-300 leading-relaxed">
+          <p className="text-lg text-gray-300 leading-relaxed text-justify">
             I've developed projects ranging from a cardiovascular risk prediction system to a GPT-4 powered restaurant menu generator. I'm actively seeking internship or project opportunities where I can contribute my skills, learn from experienced professionals, and tackle new challenges.
           </p>
         </motion.div>
