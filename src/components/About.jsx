@@ -39,7 +39,6 @@ const About = () => {
           <br />
           <p className="text-lg text-gray-300 leading-relaxed text-justify">
             Currently, I’m working as an Android Developer Apprentice at NEC Corporation, where I develop and optimize scalable mobile applications, focusing on performance, usability, and clean architecture.
-
           </p>
         </motion.div>
 
