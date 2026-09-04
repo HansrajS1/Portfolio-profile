@@ -6,9 +6,9 @@
 
 This repository contains the source code for my personal portfolio website, designed to showcase my skills, projects, and professional journey as a developer specializing in AI and Machine Learning.
 
-![Portfolio Screenshot](https://hansrajvvs.me/social-preview.jpg)
+![Portfolio Screenshot](https://hansrajvvs.pages.dev/social-preview.jpg)
 
-# Live Link : [HANS RAJ](https://hansrajvvs.me/)
+# Live Link : [HANS RAJ](https://hansrajvvs.pages.dev/)
 
 ---
 ##  Features
