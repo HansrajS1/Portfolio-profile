@@ -23,7 +23,7 @@ const projects = [
     description:
       "This project focuses on developing an intelligent system that automatically detects whether a person is wearing a face mask or not using Convolutional Neural Networks (CNNs) and real-time video input. The system leverages deep learning techniques in computer vision to ensure public safety, especially in environments where mask compliance is essential. The model is trained on a dataset of images containing individuals with and without face masks, achieving high accuracy in classification.",
     imageUrl: face,
-    liveUrl: "https://face-mask.hansrajvvs.me/",
+    liveUrl: "https://face-mask.pages.dev/",
     codeUrl: "https://github.com/HansrajS1/Face-Mask-Detection",
   },
   {
@@ -32,7 +32,7 @@ const projects = [
       "Predicts the 10-year risk of coronary heart disease (CHD) using machine learning to assist healthcare professionals in early risk assessment. The project is fully MLOps-enabled with DVC pipelines and MLflow experiment tracking via DAGsHub. The model is deployed as a REST API using FastAPI and containerized with Docker for scalable deployment. The frontend is built with basic HTML/CSS, providing an intuitive interface for users to input their health data and receive risk predictions.",
     imageUrl: project3,
     liveUrl:
-      "https://cardiovascular-risk-prediction.hansrajvvs.me/",
+      "https://cardiovascular-risk-prediction.pages.dev/",
     codeUrl:
       "https://github.com/HansrajS1/Cardiovascular-Risk-Prediction-in-ml",
   },
